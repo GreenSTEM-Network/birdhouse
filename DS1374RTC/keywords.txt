@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For DS1374RTC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+eCTRType_t		KEYWORD1
+eWDTOutput_t	KEYWORD1
+eSQWRate_t		KEYWORD1		
+RTCConfig_t		KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+readAlarm	KEYWORD2
+setAlarm	KEYWORD2
+setTime	KEYWORD2
+readTime	KEYWORD2
+chipPresent	KEYWORD2
+setConfig	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+RTC	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+eALARM	LITERAL1
+eWATCHDOG	LITERAL1 
+eRESET_PIN	LITERAL1
+eINT_PIN	LITERAL1
+e1Hz		LITERAL1
+e4kHz		LITERAL1
+e8kHz		LITERAL1
+e32kHz	LITERAL1
